@@ -1,0 +1,11 @@
+header {
+  display: flex;
+}
+
+header nav ul li {
+  float: left;
+  padding: 5px;
+  border: 1px solid #000;
+  list-style-type: none;
+  border-collapse: collapse;
+}
